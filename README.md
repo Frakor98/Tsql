@@ -4,6 +4,8 @@ Cieszę się, że tu jesteś! W tym repozytorium znajdziesz wiele interesującyc
 
 ## Projekty
 
+Aktualnie pracuję z językiem T-SQL na codzień i opanowałem już jego podstawy. Jednak zawsze staram się poszerzać swoją wiedzę i umiejętności, dlatego teraz skupiam się na opanowaniu bardziej skomplikowanych zagadnień związanych z T-SQL. Jestem przekonany, że dzięki temu będę mógł rozwiązywać jeszcze bardziej wymagające problemy związane z bazami danych oraz tworzyć bardziej zaawansowane zapytania, co z pewnością wpłynie na moją skuteczność i efektywność w pracy.
+
 | Nazwa projektu | Opis | Link do repozytorium |
 | --- | --- | --- |
 | Sklep internetowy | Prosty sklep internetowy zaimplementowany w T-SQL | [Link](https://github.com/user/repo) |
@@ -12,8 +14,5 @@ Cieszę się, że tu jesteś! W tym repozytorium znajdziesz wiele interesującyc
 | Backup i recovery | Skrypty do tworzenia kopii zapasowych i przywracania danych w SQL Serverze | [Link](https://github.com/user/repo) |
 | Migracja bazy danych | Narzędzie do migracji bazy danych z jednej platformy na drugą | [Link](https://github.com/user/repo) |
 
-Jeśli jesteś początkującym programistą, polecam przejrzeć projekty oznaczone jako "dla początkujących". Natomiast jeśli jesteś doświadczonym programistą, z pewnością zainteresują Cię bardziej zaawansowane projekty.
-
-Nie wahaj się również dodać swojego wkładu do repozytorium. Jeśli masz ciekawy projekt, który chcesz podzielić się z innymi, po prostu utwórz nowy branch i zacznij pracować nad swoim projektem.
 
 Dziękuję za odwiedzenie repozytorium i życzę miłego przeglądania!
